@@ -8,5 +8,7 @@ art-설 <br/>
 인게임<br/>
 ![image](https://github.com/zephirumwest/Blue_survival/assets/111879138/4beeeed1-a35c-4ec0-8ede-727a368af734) <br/>
 ![image](https://github.com/zephirumwest/Blue_survival/assets/111879138/6be4fa4c-56d3-430c-80a0-2954647f5ad1) <br/>
+게임 플레이 영상<br/>
+https://github.com/zephirumwest/Blue_survival/assets/111879138/e31a07f8-c755-4a78-aae0-d1ace3149ba1
 
 
